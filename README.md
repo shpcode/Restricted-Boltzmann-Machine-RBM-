@@ -1,4 +1,4 @@
-# Restricted Boltzmann Machine (RBM) Implementation with Gibbs Sampling
+# Restricted Boltzmann Machine (RBM) with Gibbs Sampling
 
 ## Overview
 
